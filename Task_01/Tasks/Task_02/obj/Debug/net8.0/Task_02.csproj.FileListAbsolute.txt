@@ -1,0 +1,14 @@
+F:\Training\InnoTech\Session 2\Task_01\Task_02\bin\Debug\net8.0\Task_02.exe
+F:\Training\InnoTech\Session 2\Task_01\Task_02\bin\Debug\net8.0\Task_02.deps.json
+F:\Training\InnoTech\Session 2\Task_01\Task_02\bin\Debug\net8.0\Task_02.runtimeconfig.json
+F:\Training\InnoTech\Session 2\Task_01\Task_02\bin\Debug\net8.0\Task_02.dll
+F:\Training\InnoTech\Session 2\Task_01\Task_02\bin\Debug\net8.0\Task_02.pdb
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.AssemblyInfoInputs.cache
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.AssemblyInfo.cs
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.csproj.CoreCompileInputs.cache
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.dll
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\refint\Task_02.dll
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.pdb
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\Task_02.genruntimeconfig.cache
+F:\Training\InnoTech\Session 2\Task_01\Task_02\obj\Debug\net8.0\ref\Task_02.dll

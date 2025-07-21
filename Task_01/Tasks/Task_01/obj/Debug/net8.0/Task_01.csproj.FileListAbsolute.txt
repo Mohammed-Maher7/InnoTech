@@ -1,0 +1,42 @@
+C:\Users\hp\source\repos\Task_01\bin\Debug\net8.0\Task_01.exe
+C:\Users\hp\source\repos\Task_01\bin\Debug\net8.0\Task_01.deps.json
+C:\Users\hp\source\repos\Task_01\bin\Debug\net8.0\Task_01.runtimeconfig.json
+C:\Users\hp\source\repos\Task_01\bin\Debug\net8.0\Task_01.dll
+C:\Users\hp\source\repos\Task_01\bin\Debug\net8.0\Task_01.pdb
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.AssemblyInfo.cs
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.dll
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\refint\Task_01.dll
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.pdb
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\Task_01.genruntimeconfig.cache
+C:\Users\hp\source\repos\Task_01\obj\Debug\net8.0\ref\Task_01.dll
+F:\Training\InnoTech\Session 2\Task_02\bin\Debug\net8.0\Task_01.exe
+F:\Training\InnoTech\Session 2\Task_02\bin\Debug\net8.0\Task_01.deps.json
+F:\Training\InnoTech\Session 2\Task_02\bin\Debug\net8.0\Task_01.runtimeconfig.json
+F:\Training\InnoTech\Session 2\Task_02\bin\Debug\net8.0\Task_01.dll
+F:\Training\InnoTech\Session 2\Task_02\bin\Debug\net8.0\Task_01.pdb
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.AssemblyInfoInputs.cache
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.AssemblyInfo.cs
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.csproj.CoreCompileInputs.cache
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.dll
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\refint\Task_01.dll
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.pdb
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\Task_01.genruntimeconfig.cache
+F:\Training\InnoTech\Session 2\Task_02\obj\Debug\net8.0\ref\Task_01.dll
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\bin\Debug\net8.0\Task_01.exe
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\bin\Debug\net8.0\Task_01.deps.json
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\bin\Debug\net8.0\Task_01.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\bin\Debug\net8.0\Task_01.dll
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\bin\Debug\net8.0\Task_01.pdb
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.dll
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\refint\Task_01.dll
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.pdb
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\ref\Task_01.dll
