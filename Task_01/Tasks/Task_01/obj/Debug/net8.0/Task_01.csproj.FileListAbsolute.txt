@@ -40,3 +40,4 @@ C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\n
 C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.pdb
 C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.genruntimeconfig.cache
 C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\ref\Task_01.dll
+C:\Users\hp\OneDrive\Documents\GitHub\InnoTech\Task_01\Tasks\Task_01\obj\Debug\net8.0\Task_01.sourcelink.json

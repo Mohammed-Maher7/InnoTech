@@ -1,0 +1,9 @@
+﻿<button class="btn btn-@Color" @onclick="OnClick">
+    @ChildContent
+</button>
+
+@code {
+    [Parameter] public string Color { get; set; } = "primary"; // success, danger, warning
+    [Parameter] public EventCallback OnClick { get; set; }
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+}

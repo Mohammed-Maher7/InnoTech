@@ -1,0 +1,29 @@
+﻿@page "/"
+ 
+
+<h3 class="text-center py-4">Test Blazor Bootstrap Components</h3>
+
+<Alert Message="This is a success alert!" Type="success" />
+<Alert Message="This is a danger alert!" Type="danger" />
+
+<Button Color="primary" OnClick="@(()=>ShowMessage())">Click Me</Button>
+
+<Card Title="My custom card" Text="This is a Blazor card." ImageUrl="##">
+    <Button Color="success" OnClick="@(()=>ShowMessage())">Go</Button>
+</Card>
+
+ 
+
+@code {
+    void ShowMessage()
+    {
+        Console.WriteLine("Button Clicked!");
+    }
+}
+
+ 
+ 
+
+ 
+ 
+ 

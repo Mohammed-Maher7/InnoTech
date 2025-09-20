@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj": {}
   },
   "projects": {
-    "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj",
         "projectName": "Task_01",
-        "projectPath": "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_01\\Task_01.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_01\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

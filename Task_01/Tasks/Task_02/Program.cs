@@ -14,7 +14,7 @@ if (!int.TryParse(maximumNumberFromUser, out maximumNumber) || maximumNumber < 1
     return;
 }
 
-string numbers = string.Empty;
+string numbers ="";
 
 Stopwatch stopwatch = Stopwatch.StartNew();
 

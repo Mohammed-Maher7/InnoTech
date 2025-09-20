@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_02\\Task_02.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_02\\Task_02.csproj",
       "projectName": "Task_02",
-      "projectPath": "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_02\\Task_02.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_02\\Task_02.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "F:\\Training\\InnoTech\\Task_01\\Tasks\\Task_02\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\InnoTech\\Task_01\\Tasks\\Task_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

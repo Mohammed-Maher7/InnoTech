@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b9aQCTM/FCsoU5dwAdTsRYeEo8wpVKPkOn+mZddTGaw=",
+  "Source": "StudentsAffairsWebAPI",
+  "BasePath": "_content/StudentsAffairsWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

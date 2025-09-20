@@ -11,7 +11,6 @@ if (string.IsNullOrWhiteSpace(maximumNumberFromUser) || !int.TryParse(maximumNum
     return;
 }
 
-Console.WriteLine($"Are you sure you need to get the addition up to {maximumNumber}?");
 
 
 int sum = 0;

@@ -1,0 +1,1648 @@
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Blazor.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Blazor.pdb
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.20.bqrxoiuiyc.js
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Blazor.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.20.bqrxoiuiyc.js.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Blazor.pdb.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Blazor.staticwebassets.runtime.json
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Blazor.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Blazor.pdb
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.CSharp.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.AppContext.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Buffers.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Collections.Concurrent.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Collections.Specialized.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Collections.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ComponentModel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Configuration.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Console.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Core.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Data.Common.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Data.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.Process.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Drawing.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Drawing.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Formats.Tar.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Globalization.Calendars.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Globalization.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Globalization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Compression.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.FileSystem.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.Pipes.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.IO.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Linq.Expressions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Linq.Parallel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Linq.Queryable.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Linq.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Memory.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Http.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.HttpListener.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Mail.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.NameResolution.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Ping.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Quic.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Requests.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Security.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.ServicePoint.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.Sockets.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.WebClient.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.WebProxy.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.WebSockets.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Net.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Numerics.Vectors.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Numerics.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ObjectModel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Private.Uri.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Private.Xml.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.Emit.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.Metadata.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Reflection.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Resources.Reader.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Resources.Writer.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Handles.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Loader.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Numerics.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.Serialization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Runtime.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.AccessControl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Claims.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Cryptography.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.Principal.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.SecureString.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Security.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ServiceModel.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ServiceProcess.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Text.Encoding.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Overlapped.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Tasks.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Thread.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.Timer.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Threading.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Transactions.Local.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Transactions.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.ValueTuple.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Web.HttpUtility.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Web.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Windows.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.Linq.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.Serialization.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.XDocument.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.XPath.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Xml.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\WindowsBase.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\mscorlib.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\netstandard.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\System.Private.CoreLib.dll
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\dotnet.js
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\dotnet.timezones.blat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\dotnet.wasm
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\icudt_CJK.dat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\icudt_EFIGS.dat
+C:\Users\hp\Favorites\Downloads\Blazor\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.csproj.AssemblyReference.cache
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.AssemblyInfoInputs.cache
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.AssemblyInfo.cs
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\blazor.build.boot-extension.json
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\blazor.boot.json
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets\msbuild.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets\msbuild.build.Blazor.props
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blazor.props
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blazor.props
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\scopedcss\bundle\Blazor.styles.css
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ctnduif18g.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\yn3mf9w0vm.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\zqjhrteojq.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\pdhvbxthnl.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\94as9v0qv5.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ucbhs74df9.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\93w10sclk1.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\td4trh8mor.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\jmwuuag6ik.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\vwew91xkoy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\eusi7ilf98.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\e5m1k7rc7r.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\vpf63uzxfa.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\nm92mbkubu.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\a2ywyza8qs.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\u4033sk409.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\vfj918w6r9.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\d5ooom67hd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0qro87sony.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\u21slizwah.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ig7722zcih.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\l4waajfs60.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6fhhh1kbw2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\c7qm5tx3u3.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\vvsez4guhr.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\r45lbclejy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\v9jr6wgsi0.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\t01d96v34h.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\v12k3v7ffj.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\04yqrtcc8b.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\f396rqssav.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\jggfd00dek.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\a1wii8bjid.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\y4udema1av.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\lsejh0468x.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6svuejv5i8.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\8cf4x5j423.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ztji1dc29m.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\t2tumzn0in.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\rbucs8g9lh.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\4y7casblje.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\h51nstcexj.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\4p7ywdvum9.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\u4vpw7sccc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\o9w2p0jdd9.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\t42luh3j3e.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\fegh889dv3.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ezj55mjaiy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\n4loe0l97x.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\wxxq8oqspr.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\1387iutxfi.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\hb97m2ybz1.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\45ydzl8ex2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\a18i5v60i3.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\gr6mysplif.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\bgk6kmev40.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\zhdc5euuvu.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6xzadue0vb.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\1g0zkwufyd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5ieeqygvd5.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\xmfh149vdl.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mneqenv0fw.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\303k3f9dc8.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\su84yp90xo.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\8costr6zla.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5e2s4rlr16.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\k6i79bxk0w.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\c90nlmadr5.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\19y2o4j8wy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\4dzj9pnch6.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\8rg7mlu2cf.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mzkvc0zvfp.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\bdt751l54w.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\m1o1c12vfy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\s7amoutnhf.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mznuumxenh.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\gsap9vvlpt.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\s0nnyxs43h.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0w2c8ign6o.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\te5q2n70gs.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\tzw939a1gd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mxkwkmka3e.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\clowue7yax.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\jwrfb6ixnu.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\8p6w0356s7.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0pt1dch0jo.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\vtsynduff3.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\svlfv1swuw.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\rrvirkfvvn.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\y009xzsw43.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\wq7nvm0hvv.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6v379qmhlv.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\75fyqw4ihp.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\fhxysehzoj.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\r2y8ps7k3e.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\61wi5g3xy4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\hvdhsxr4t6.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ijkb54tsef.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\8b6ebftm9e.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\05bc3t5hj2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\i7c703sa3d.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5mpridg4bq.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\kvrga4jnj6.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\k7nsjsf7js.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\4dherqvy8a.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\2c9schdr82.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\tzjsfcqptt.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\dm31sar9ak.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\zettpumgrc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\c216dfwfd6.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\b352rjr9e1.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\qroaw3hl98.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\hr9w8fik5m.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0acy4705jy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\rpblhwbmk0.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6e7c1ujtix.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\74f32uq0m5.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\z7injhhchu.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\gttc70uxwy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\gwxaxf3q2g.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\o9qjbb5z2e.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ao5mmr2dp4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\bfj4owwvu1.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\1g6e472mk4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\kpp23s19fl.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\d0t2zg1yyd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\r948s5wto8.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\yrmeyj9vye.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\lr7ngilkl2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\nq8yvla4qu.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\g95i0bd6u4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\1ppo1aml03.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\fjv2ku9pus.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\q4fh4w8m8j.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\3fwps92fdt.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\a0aa233xs4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0h0w4vzseb.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\1nb8itpdlh.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\v075yq5oh2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6womxiws9k.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\yivvn4x4k5.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\3wnbj4exvm.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5rh0m3hkx9.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\eudzu09mno.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\n1rj6o7guc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\x71rwtyumy.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\aoyex0mamp.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\fzx6gk78uc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\v39q9ucin1.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\2zt6l7j8zs.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\np2uykn024.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\1tl8kjpwqs.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\nrtebqzjds.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\hixmdvbtgh.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\whbbwvblor.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6003j1v6tu.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ys1ih2h566.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\civ7sj8h2b.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\zoz9wg38vg.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0s8hhsx6ex.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\8fy1ycjlkl.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\wu0cqi7orp.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\lw48gsy2bw.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\wjpfav7vhc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\hjfxhp8vdz.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\oyacxwyhx2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\tuzp929fv1.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ztuitmyqnz.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\7lum5d672l.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\2oj66gvar2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\04v3ibqltd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\gw7kg3kctr.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mdmd6j3720.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\sru2stsy59.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\3f1cp46qnc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5ozfswpvtx.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\29lj0zopxo.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\tnekivpefn.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ulq26qa2x4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mox4m15zd2.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\aop3bz6bgl.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\smmk0lobi9.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\xzrm02r7b4.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0is20f8vvo.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\4hvlegthtg.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\orfln0yzkv.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5uigzxseoq.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\0wuaqb9l1z.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\6uen01hhrd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\z9mnacljql.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\mxm8zaqtgm.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\5gssq2wcer.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\bqrxoiuiyc.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\lx1rygqh4e.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\3wdf8p9spt.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ue8m07bdtd.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\4thukq4itq.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\ceyja1sliq.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\b55zk7ffat.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\rklkc3j0gw.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\compressed\v5xmy37558.gz
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.csproj.Up2Date
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.dll
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\refint\Blazor.dll
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\Blazor.pdb
+C:\Users\hp\Favorites\Downloads\Blazor\obj\Debug\net7.0\ref\Blazor.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.20.bqrxoiuiyc.js
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.20.bqrxoiuiyc.js.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Blazor.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Blazor.pdb
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Blazor.dll.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\Blazor.pdb.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Blazor.staticwebassets.runtime.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Blazor.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Blazor.pdb
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.JSInterop.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Pipelines.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.CSharp.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.AppContext.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Buffers.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Collections.Concurrent.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Collections.Immutable.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Collections.Specialized.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Collections.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ComponentModel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Configuration.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Console.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Core.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Data.Common.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Data.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.Process.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Drawing.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Drawing.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Formats.Asn1.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Formats.Tar.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Globalization.Calendars.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Globalization.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Globalization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Compression.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.FileSystem.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.Pipes.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.IO.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Linq.Expressions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Linq.Parallel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Linq.Queryable.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Linq.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Memory.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Http.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Http.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.HttpListener.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Mail.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.NameResolution.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Ping.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Quic.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Requests.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Security.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.ServicePoint.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.Sockets.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.WebClient.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.WebProxy.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.WebSockets.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Net.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Numerics.Vectors.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Numerics.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ObjectModel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Private.Uri.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Private.Xml.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.Emit.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.Metadata.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Reflection.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Resources.Reader.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Resources.Writer.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Handles.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Loader.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Numerics.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.Serialization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Runtime.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.AccessControl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Claims.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Cryptography.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.Principal.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.SecureString.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Security.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ServiceModel.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ServiceProcess.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Text.Encoding.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Text.Json.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Channels.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Overlapped.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Tasks.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Thread.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.Timer.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Threading.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Transactions.Local.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Transactions.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.ValueTuple.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Web.HttpUtility.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Web.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Windows.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.Linq.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.Serialization.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.XDocument.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.XPath.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Xml.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\WindowsBase.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\mscorlib.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\netstandard.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\System.Private.CoreLib.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\dotnet.js
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\dotnet.timezones.blat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\dotnet.wasm
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\icudt_CJK.dat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\icudt_EFIGS.dat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\bin\Debug\net7.0\icudt_no_CJK.dat
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.csproj.AssemblyReference.cache
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.GeneratedMSBuildEditorConfig.editorconfig
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.AssemblyInfoInputs.cache
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.AssemblyInfo.cs
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.csproj.CoreCompileInputs.cache
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.MvcApplicationPartsAssemblyInfo.cache
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\blazor.build.boot-extension.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\blazor.boot.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets.build.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets.development.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets\msbuild.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets\msbuild.build.Blazor.props
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blazor.props
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blazor.props
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\staticwebassets.pack.json
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\scopedcss\bundle\Blazor.styles.css
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ctnduif18g.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\yn3mf9w0vm.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\zqjhrteojq.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\pdhvbxthnl.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\94as9v0qv5.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ucbhs74df9.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\93w10sclk1.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\td4trh8mor.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\jmwuuag6ik.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\vwew91xkoy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\eusi7ilf98.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\e5m1k7rc7r.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\vpf63uzxfa.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\nm92mbkubu.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\a2ywyza8qs.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\u4033sk409.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\vfj918w6r9.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\d5ooom67hd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0qro87sony.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\u21slizwah.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ig7722zcih.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\l4waajfs60.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6fhhh1kbw2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\c7qm5tx3u3.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\vvsez4guhr.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\r45lbclejy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\v9jr6wgsi0.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\t01d96v34h.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\v12k3v7ffj.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\04yqrtcc8b.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\f396rqssav.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\jggfd00dek.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\a1wii8bjid.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\y4udema1av.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\lsejh0468x.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6svuejv5i8.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\8cf4x5j423.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ztji1dc29m.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\t2tumzn0in.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\rbucs8g9lh.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\4y7casblje.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\h51nstcexj.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\4p7ywdvum9.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\u4vpw7sccc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\o9w2p0jdd9.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\t42luh3j3e.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\fegh889dv3.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ezj55mjaiy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\n4loe0l97x.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\wxxq8oqspr.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\1387iutxfi.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\hb97m2ybz1.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\45ydzl8ex2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\a18i5v60i3.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\gr6mysplif.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\bgk6kmev40.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\zhdc5euuvu.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6xzadue0vb.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\1g0zkwufyd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5ieeqygvd5.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\xmfh149vdl.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mneqenv0fw.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\303k3f9dc8.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\su84yp90xo.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\8costr6zla.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5e2s4rlr16.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\k6i79bxk0w.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\c90nlmadr5.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\19y2o4j8wy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\4dzj9pnch6.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\8rg7mlu2cf.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mzkvc0zvfp.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\bdt751l54w.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\m1o1c12vfy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\s7amoutnhf.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mznuumxenh.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\gsap9vvlpt.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\s0nnyxs43h.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0w2c8ign6o.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\te5q2n70gs.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\tzw939a1gd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mxkwkmka3e.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\clowue7yax.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\jwrfb6ixnu.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\8p6w0356s7.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0pt1dch0jo.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\vtsynduff3.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\svlfv1swuw.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\rrvirkfvvn.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\y009xzsw43.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\wq7nvm0hvv.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6v379qmhlv.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\75fyqw4ihp.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\fhxysehzoj.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\r2y8ps7k3e.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\61wi5g3xy4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\hvdhsxr4t6.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ijkb54tsef.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\8b6ebftm9e.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\05bc3t5hj2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\i7c703sa3d.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5mpridg4bq.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\kvrga4jnj6.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\k7nsjsf7js.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\4dherqvy8a.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\2c9schdr82.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\tzjsfcqptt.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\dm31sar9ak.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\zettpumgrc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\c216dfwfd6.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\b352rjr9e1.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\qroaw3hl98.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\hr9w8fik5m.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0acy4705jy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\rpblhwbmk0.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6e7c1ujtix.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\74f32uq0m5.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\z7injhhchu.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\gttc70uxwy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\gwxaxf3q2g.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\o9qjbb5z2e.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ao5mmr2dp4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\bfj4owwvu1.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\1g6e472mk4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\kpp23s19fl.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\d0t2zg1yyd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\r948s5wto8.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\yrmeyj9vye.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\lr7ngilkl2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\nq8yvla4qu.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\g95i0bd6u4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\1ppo1aml03.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\fjv2ku9pus.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\q4fh4w8m8j.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\3fwps92fdt.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\a0aa233xs4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0h0w4vzseb.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\1nb8itpdlh.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\v075yq5oh2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6womxiws9k.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\yivvn4x4k5.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\3wnbj4exvm.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5rh0m3hkx9.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\eudzu09mno.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\n1rj6o7guc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\x71rwtyumy.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\aoyex0mamp.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\fzx6gk78uc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\v39q9ucin1.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\2zt6l7j8zs.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\np2uykn024.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\1tl8kjpwqs.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\nrtebqzjds.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\hixmdvbtgh.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\whbbwvblor.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6003j1v6tu.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ys1ih2h566.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\civ7sj8h2b.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\zoz9wg38vg.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0s8hhsx6ex.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\8fy1ycjlkl.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\wu0cqi7orp.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\lw48gsy2bw.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\wjpfav7vhc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\hjfxhp8vdz.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\oyacxwyhx2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\tuzp929fv1.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ztuitmyqnz.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\7lum5d672l.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\2oj66gvar2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\04v3ibqltd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\gw7kg3kctr.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mdmd6j3720.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\sru2stsy59.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\3f1cp46qnc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5ozfswpvtx.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\29lj0zopxo.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\tnekivpefn.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ulq26qa2x4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mox4m15zd2.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\aop3bz6bgl.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\smmk0lobi9.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\xzrm02r7b4.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0is20f8vvo.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\4hvlegthtg.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\orfln0yzkv.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5uigzxseoq.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\0wuaqb9l1z.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\6uen01hhrd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\z9mnacljql.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\mxm8zaqtgm.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\5gssq2wcer.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\bqrxoiuiyc.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\lx1rygqh4e.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\3wdf8p9spt.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ue8m07bdtd.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\4thukq4itq.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\ceyja1sliq.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\b55zk7ffat.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\rklkc3j0gw.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\compressed\v5xmy37558.gz
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.csproj.Up2Date
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\refint\Blazor.dll
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\Blazor.pdb
+F:\InnoTech\My Tasks\Blazor_Task\Blazor Components\obj\Debug\net7.0\ref\Blazor.dll
